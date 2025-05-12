@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CRXZwtJHZBw=",
+  "success": true,
+  "projectFilePath": "C:\\Programming\\MS visual studios\\Programs\\applicationTesting2\\applicationTesting2\\applicationTesting2.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\iisth\\.nuget\\packages\\winforms.datavisualization\\1.10.0\\winforms.datavisualization.1.10.0.nupkg.sha512"
+  ],
+  "logs": []
+}
